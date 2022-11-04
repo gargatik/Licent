@@ -1,0 +1,6 @@
+model_checkpoint_path: "LiCENt-108000"
+all_model_checkpoint_paths: "LiCENt-103680"
+all_model_checkpoint_paths: "LiCENt-104760"
+all_model_checkpoint_paths: "LiCENt-105840"
+all_model_checkpoint_paths: "LiCENt-106920"
+all_model_checkpoint_paths: "LiCENt-108000"
