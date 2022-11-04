@@ -2,7 +2,7 @@
 Implementation of LiCENt: Low-Light Image Enhancement Using the Light Channel of HSL
 
 
-
+use the link to download pretrained weights"https://drive.google.com/drive/folders/1SWzJQTOJ-OGLo8A00BxwwtSJ7cfYH-EG?usp=sharing"
 
 use this command to test(add"--use_gpu 1" to test on gpu)
 ```
